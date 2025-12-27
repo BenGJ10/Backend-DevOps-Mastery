@@ -22,6 +22,10 @@ This folder contains comprehensive resources and tutorials to help you master Gi
 
 - [**Branch commands**](Working%20with%20Branches/3.%20Complete%20branch%20commands.md)
 
+### [3. Merging Branches](Merging%20Branches/)
+
+- [**Introduction to Merging**](Merging%20Branches/Introduction%20to%20Merging.md)
+
 ---
 
 ## How to use this folder

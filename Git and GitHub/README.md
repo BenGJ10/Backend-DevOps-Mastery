@@ -26,6 +26,8 @@ This folder contains comprehensive resources and tutorials to help you master Gi
 
 - [**Introduction to Merging**](Merging%20Branches/Introduction%20to%20Merging.md)
 
+- [Fixing **Merge Conflicts**](Merging%20Branches/Fixing%20Merge%20Conflicts.md)
+
 ---
 
 ## How to use this folder

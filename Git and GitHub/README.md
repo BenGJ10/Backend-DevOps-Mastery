@@ -35,6 +35,8 @@ This folder contains comprehensive resources and tutorials to help you master Gi
 
 - [**Stashing Changes**](Other%20Important%20Commands/Stashing%20Changes.md)
 
+- [**Undoing Changes**](Other%20Important%20Commands/Undoing%20Changes.md)
+
 ---
 
 ## How to use this folder

@@ -37,6 +37,10 @@ This folder contains comprehensive resources and tutorials to help you master Gi
 
 - [**Undoing Changes**](Other%20Important%20Commands/Undoing%20Changes.md)
 
+### [5. GitHub Fundamentals](GitHub%20Fundamentals/)
+
+- [**Overview of GitHub**](GitHub%20Fundamentals/1.%20Overview%20of%20GitHub.md)
+
 ---
 
 ## How to use this folder

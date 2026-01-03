@@ -41,6 +41,10 @@ This folder contains comprehensive resources and tutorials to help you master Gi
 
 - [**Overview of GitHub**](GitHub%20Fundamentals/1.%20Overview%20of%20GitHub.md)
 
+- [**Creating a GitHub Repository**](GitHub%20Fundamentals/2.%20Creating%20a%20GitHub%20Repository.md)
+
+- [**Pushing to GitHub**](GitHub%20Fundamentals/3.%20Pushing%20to%20GitHub.md)
+
 ---
 
 ## How to use this folder

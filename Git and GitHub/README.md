@@ -45,6 +45,8 @@ This folder contains comprehensive resources and tutorials to help you master Gi
 
 - [**Pushing to GitHub**](GitHub%20Fundamentals/3.%20Pushing%20to%20GitHub.md)
 
+- [**Git Fetch** vs **Git Pull**](GitHub%20Fundamentals/4.%20Git%20Fetch%20vs%20Git%20Pull.md)
+
 ---
 
 ## How to use this folder

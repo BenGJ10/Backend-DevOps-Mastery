@@ -1,7 +1,8 @@
 # Docker Fundamentals
 
-This folder contains comprehensive tutorials and guides on Docker, a platform used for developing, shipping, and running applications inside containers. Whether you're a beginner or looking to enhance your Docker skills, this collection of resources will help you understand the core concepts and commands.
+The whole industry is moving towards **containerization**, and `Docker` is at the forefront of this revolution. 
 
+Use this folder to learn the basics of `Docker`,  and master the essential commands and concepts needed to work with Docker images and containers.
 
 ## Contents
 
@@ -15,14 +16,16 @@ This folder contains comprehensive tutorials and guides on Docker, a platform us
 
 - [Understanding **Images** and **Containers**](Images%20and%20Containers/1.%20Understanding%20Images%20and%20Containers.md)
 
+- [Essential **Docker Commands**](Images%20and%20Containers/2.%20Essential%20Docker%20Commands.md)
+
+- [Understanding **Docker Image** Layers](Images%20and%20Containers/3.%20Understanding%20Docker%20Image%20Layers.md)
 ---
 
 ## How to use this folder
 
-1. **Navigate the Structure**: Each subfolder contains specific topics related to Docker. Start with the introduction if you're new to containerization.
+1. **Navigate the Structure**: Each subfolder contains specific topics related to Docker. Follow in the order.
 
-2. **Follow the Tutorials**: Each markdown file provides step-by-step instructions, examples, and best practices. Follow along to practice the commands and concepts.
-
+2. **Follow the Tutorials**: Each markdown file provides step-by-step instructions, examples, and best practices. 
 3. **Practice Regularly**: The best way to learn Docker is through regular practice. Create your own containers, images, and use the commands you learn.
 
 4. **Use help of AI**: If you have questions or need further explanations, feel free to ask AI for assistance.

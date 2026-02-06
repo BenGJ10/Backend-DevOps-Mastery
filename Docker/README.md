@@ -12,6 +12,10 @@ Use this folder to learn the basics of `Docker`,  and master the essential comma
 
 - [What is **Docker?**](Introduction/2.%20What%20is%20Docker.md)
 
+- [**Overview of Docker Architecture**](Introduction/3.%20Overview%20of%20Docker%20Architecture.md)
+
+- [**Dockerfile** Basics](Introduction/4.%20Dockerfile%20Basics.md)
+
 ### [2. Docker Images and Containers](Images%20and%20Containers/)
 
 - [Understanding **Images** and **Containers**](Images%20and%20Containers/1.%20Understanding%20Images%20and%20Containers.md)
@@ -21,6 +25,10 @@ Use this folder to learn the basics of `Docker`,  and master the essential comma
 - [Understanding **Docker Image** Layers](Images%20and%20Containers/3.%20Understanding%20Docker%20Image%20Layers.md)
 
 - [**Attached** vs **Detached** Mode](Images%20and%20Containers/4.%20Attached%20vs%20Detached%20Mode.md)
+
+- [**Naming** and **Tagging** Docker Images](Images%20and%20Containers/5.%20Naming%20and%20Tagging%20Images.md)
+
+- [**Sharing**, **Pushing**, and **Pulling** Docker Images](Images%20and%20Containers/6.%20Sharing,%20Pushing,%20Pulling%20Images.md)
 
 ---
 

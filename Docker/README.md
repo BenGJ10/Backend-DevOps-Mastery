@@ -16,6 +16,8 @@ Use this folder to learn the basics of `Docker`,  and master the essential comma
 
 - [**Dockerfile** Basics](Introduction/4.%20Dockerfile%20Basics.md)
 
+- [**Quick Overview of a 3 tier Application**](Introduction/5.%20Quick%20Overview%20of%20a%203%20tier%20Application.md) ⭐️
+
 ### [2. Docker Images and Containers](Images%20and%20Containers/)
 
 - [Understanding **Images** and **Containers**](Images%20and%20Containers/1.%20Understanding%20Images%20and%20Containers.md)

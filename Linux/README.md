@@ -12,7 +12,9 @@ Use this folder to learn the basics of ``Linux`, and master the essential comman
 
 - [**UNIX** vs **Linux**](Introduction/UNIX%20vs%20Linux.md)
 
-- [Overview of **Linux FileSystem**](Introduction/Linux%20FileSystem.md)
+- [Overview of **Linux File System**](Introduction/Linux%20FileSystem.md)
+
+- [Linux File and Directory **Properties**](Introduction/Linux%20File%20and%20Directory%20Properties.md)
 
 ---
 

@@ -14,9 +14,11 @@ Use this folder to learn the basics of ``Linux`, and master the essential comman
 
 - [Overview of **Linux File System**](Introduction/Linux%20FileSystem.md)
 
-- [Linux File and Directory **Properties**](Introduction/Linux%20File%20and%20Directory%20Properties.md)
+- [Linux **File** and **Directory Properties**](Introduction/Linux%20File%20and%20Directory%20Properties.md)
 
 - [Basic **Linux Commands**](Introduction/Basic%20Linux%20Commands.md)
+
+- [**Wildcards** in Linux](Introduction/Wildcards%20in%20Linux.md)
 
 ---
 

@@ -20,6 +20,8 @@ Use this folder to learn the basics of ``Linux`, and master the essential comman
 
 - [**Wildcards** in Linux](Introduction/Wildcards%20in%20Linux.md)
 
+- [**Soft Links** and **Hard Links** in Linux](Introduction/Soft%20Links%20and%20Hard%20Links.md)
+
 ---
 
 ## How to use this folder

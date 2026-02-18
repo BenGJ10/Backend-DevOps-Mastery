@@ -22,6 +22,8 @@ Use this folder to learn the basics of ``Linux`, and master the essential comman
 
 - [**Soft Links** and **Hard Links** in Linux](Introduction/Soft%20Links%20and%20Hard%20Links.md)
 
+- [**Inodes** deep dive - *Advanced topic*](Introduction/Inodes%20Deep%20Dive.md) 
+
 ### [2. Linux Fundamentals](Linux%20Fundamentals/)
 
 - [Linux **Permissions**](Linux%20Fundamentals/Linux%20Permissions.md)

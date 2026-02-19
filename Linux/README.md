@@ -36,6 +36,8 @@ Use this folder to learn the basics of ``Linux`, and master the essential comman
 
 - [**Input**, **Output**, **Redirection**, and **Pipes** in Linux](Linux%20Fundamentals/Input%20Output%20Redirection%20and%20Pipes.md)
 
+- [**File Display Commands** in Linux](Linux%20Fundamentals/File%20Display%20Commands.md)
+
 ---
 
 ## How to use this folder

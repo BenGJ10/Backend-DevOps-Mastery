@@ -2,7 +2,7 @@
 
 Understanding and Mastering `Linux` is very important for any software developer, system administrator, or anyone working in the tech industry. 
 
-Use this folder to learn the basics of ``Linux`, and master the essential commands and concepts needed to work with Linux systems effectively. 
+Use this folder to learn the basics of `Linux`, and master the essential commands and concepts needed to work with Linux systems effectively. 
 
 ## Contents
 
@@ -37,6 +37,8 @@ Use this folder to learn the basics of ``Linux`, and master the essential comman
 - [**Input**, **Output**, **Redirection**, and **Pipes** in Linux](Linux%20Fundamentals/Input%20Output%20Redirection%20and%20Pipes.md)
 
 - [**File Display Commands** in Linux](Linux%20Fundamentals/File%20Display%20Commands.md)
+
+- [**Text Processing Commands** in Linux](Linux%20Fundamentals/Text%20Processing%20Commands.md)
 
 ---
 

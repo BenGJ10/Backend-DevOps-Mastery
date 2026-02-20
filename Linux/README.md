@@ -40,6 +40,8 @@ Use this folder to learn the basics of `Linux`, and master the essential command
 
 - [**Text Processing Commands** in Linux](Linux%20Fundamentals/Text%20Processing%20Commands.md)
 
+- [**Text Processing Commands** - *Advanced*](Linux%20Fundamentals/Text%20Processing%20Commands%20Advanced.md)
+
 ---
 
 ## How to use this folder

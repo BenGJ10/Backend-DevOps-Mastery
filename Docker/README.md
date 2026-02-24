@@ -59,6 +59,8 @@ Use this folder to learn the basics of `Docker`,  and master the essential comma
 
 - [Sample **Docker Compose** File](Docker%20Compose/docker-compose.yaml)
 
+- [**Docker Swarm**](Docker%20Compose/Docker%20Swarm.md)
+
 ---
 
 ## How to use this folder

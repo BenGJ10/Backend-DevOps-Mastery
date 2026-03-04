@@ -26,7 +26,7 @@ This folder contains comprehensive resources and tutorials to help you master Gi
 
 - [**Introduction to Merging**](Merging%20Branches/Introduction%20to%20Merging.md)
 
-- [Fixing **Merge Conflicts**](Merging%20Branches/Fixing%20Merge%20Conflicts.md)
+- [Fixing **Merge Conflicts**](Merging%20Branches/Fixing%20merge%20conflicts.md)
 
 
 ### [4. Other Important Commands](Other%20Important%20Commands/)
@@ -36,6 +36,8 @@ This folder contains comprehensive resources and tutorials to help you master Gi
 - [**Stashing Changes**](Other%20Important%20Commands/Stashing%20Changes.md)
 
 - [**Undoing Changes**](Other%20Important%20Commands/Undoing%20Changes.md)
+
+- [**git `revert`** vs **git `reset`** vs **git `restore`**](Other%20Important%20Commands/git%20revert%20vs%20git%20reset%20vs%20git%20restore.md)
 
 ### [5. GitHub Fundamentals](GitHub%20Fundamentals/)
 

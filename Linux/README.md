@@ -47,7 +47,7 @@ Use this folder to learn the basics of `Linux`, and master the essential command
 
 - [**Kernel** and **Shell**](Shell%20Scripting/Kernel%20and%20Shell.md)
 
-
+- [Introduction to **Shell Scripting**](Shell%20Scripting/Introduction%20to%20Shell%20Scripting.md)
 
 ---
 

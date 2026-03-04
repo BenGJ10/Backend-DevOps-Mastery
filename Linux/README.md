@@ -42,6 +42,13 @@ Use this folder to learn the basics of `Linux`, and master the essential command
 
 - [**Text Processing Commands** - *Advanced*](Linux%20Fundamentals/Text%20Processing%20Commands%20Advanced.md)
 
+
+### [3. Shell Scripting](Shell%20Scripting/)
+
+- [**Kernel** and **Shell**](Shell%20Scripting/Kernel%20and%20Shell.md)
+
+
+
 ---
 
 ## How to use this folder

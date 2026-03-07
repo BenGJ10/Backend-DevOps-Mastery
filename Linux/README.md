@@ -57,6 +57,8 @@ Use this folder to learn the basics of `Linux`, and master the essential command
 
 - [**Different file editors** in Linux](System%20Administration/Different%20File%20Editors%20in%20Linux.md)
 
+- [**`sed` command** in Linux](System%20Administration/sed%20Command%20in%20Linux.md)
+
 ---
 
 ## How to use this folder

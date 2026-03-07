@@ -59,6 +59,8 @@ Use this folder to learn the basics of `Linux`, and master the essential command
 
 - [**`sed` command** in Linux](System%20Administration/sed%20Command%20in%20Linux.md)
 
+- [User Account Management](System%20Administration/User%20Account%20Management.md)
+
 ---
 
 ## How to use this folder

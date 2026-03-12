@@ -249,12 +249,13 @@ This ensures repeatable and automated software delivery.
 
 ## Pros and Cons of Jenkins
 
-| Advantages                          | Disadvantages                         |
-|-------------------------------------|---------------------------------------|
-| Open-source and free                | Can be complex to set up and maintain  |
-| Large plugin ecosystem              | UI can be less intuitive               |
-| Supports distributed builds         | May require significant resources      |
-| Flexible and extensible             | Security concerns if not configured properly |
+| Advantages                  | Disadvantages                             |
+| --------------------------- | ----------------------------------------- |
+| Open-source and free        | Requires maintenance and configuration    |
+| Huge plugin ecosystem       | Plugin conflicts may occur                |
+| Supports distributed builds | UI is less modern compared to newer tools |
+| Highly customizable         | Setup can become complex                  |
+
 
 ---
 

@@ -18,6 +18,11 @@ In this folder you will find resources to learn the basics of `Jenkins`, includi
 
 - [**Pipelines and Exit Codes**](Introductory/Pipelines%20and%20Exit%20Codes.md) 
 
+
+### [2. Continuous Integration with Jenkins](Continuous%20Integration/)
+
+- [What is **Continuous Integration?**](Continuous%20Integration/What%20is%20Continuous%20Integration.md)
+
 ---
 
 ## How to use this folder

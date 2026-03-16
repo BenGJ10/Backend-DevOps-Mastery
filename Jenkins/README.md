@@ -25,6 +25,10 @@ In this folder you will find resources to learn the basics of `Jenkins`, includi
 
 - [**Pipeline as Code** with Jenkins](Continuous%20Integration/Pipeline%20as%20Code.md)
 
+- [How to **Structure Jenkins Pipelines**](Continuous%20Integration/Structure%20a%20Jenkins%20Pipeline.md)
+
+- [Running **Stages Parallely**](Continuous%20Integration/Run%20Stages%20Parallely.md)
+
 ---
 
 ## How to use this folder

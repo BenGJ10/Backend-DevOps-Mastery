@@ -29,6 +29,16 @@ In this folder you will find resources to learn the basics of `Jenkins`, includi
 
 - [Running **Stages Parallely**](Continuous%20Integration/Run%20Stages%20Parallely.md)
 
+### [3. Continuous Delivery with Jenkins](Continuous%20Delivery/)
+
+- [**Continous Delivery** vs **Continuous Deployment**](Continuous%20Delivery/Continuous%20Delivery%20vs%20Deployment.md)
+
+- [**Environment Strategies** in Jenkins](Continuous%20Delivery/Environment%20Strategies.md)
+
+- [**Build Once, Deploy Everywhere**](Continuous%20Delivery/Build%20Once%20Deploy%20Everywhere.md)
+
+- [**Deployment Strategies** with Jenkins](Continuous%20Delivery/Deployment%20Strategies.md)
+
 ---
 
 ## How to use this folder

@@ -16,6 +16,8 @@ Understanding Kubernetes is essential for modern software development and operat
 
 - [Overview of **Kubernetes**](Introduction/Overview%20of%20Kubernetes.md)
 
+- [Why **Kubernetes?** The need for **Orchestration**](Introduction/Why%20Kubernetes.md)
+
 ---
 
 ## How to use this folder
